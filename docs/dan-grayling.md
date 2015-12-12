@@ -2,5 +2,6 @@
 
 * **Name:** Dan
 * **Country:** Sweden
-* **Favourite food:** Pizza
+* **Favorite food:** Pizza
+* **Favorite color:** Blue
 * **Hobby:** Programming
